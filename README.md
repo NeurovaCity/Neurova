@@ -2,7 +2,7 @@
 
 ## 🛠️ Technical Stack
 
-Neurova City is built on cutting-edge technology:
+Neurova City is built on cutting-edge technology. See more in-depth technical docs [here](https://github.com/NeurovaCity/Neurova/blob/main/TECHNICAL.md).
 
 ### Core Infrastructure
 
