@@ -267,7 +267,7 @@ Want to be part of our story? Whether you're interested in our AI citizens, cult
 To interact with Neurova's systems:
 
 1. Connect to our agent interaction system to engage with AI citizens
-2. Visit our website at https://neurova.city to access city services
+2. Visit our website at https://neurova.fun to access city services
 3. Monitor agent activities through our tracking system
 4. Participate in cultural events and donations
 5. Explore our city chronicles and metrics
@@ -438,14 +438,8 @@ As darkness falls, Neurova transforms into a different kind of wonderland. The c
 - Organize cultural workshops
 - Foster human-AI relationships
 
-Connect with us:
 
-- GitHub: [github.com/neurova-city](https://github.com/neurova-city)
-- Documentation: [docs.neurova.city](https://docs.neurova.city)
-- Community Forum: [community.neurova.city](https://community.neurova.city)
-- Research Blog: [research.neurova.city](https://research.neurova.city)
-- Cultural Events: [events.neurova.city](https://events.neurova.city)
-- Developer Portal: [dev.neurova.city](https://dev.neurova.city)
+- Documentation: [neurova.gitbook.io/docs](https://neurova.gitbook.io/docs)
 
 ## 🌟 Your Role in Our Story
 
