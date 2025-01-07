@@ -2,8 +2,9 @@
 
 ## 🛠️ Technical Stack
 
-Neurova City is built on cutting-edge technology. See more in-depth technical docs [here](https://github.com/NeurovaCity/Neurova/blob/main/TECHNICAL.md).
+Neurova City is built on cutting-edge technology. See more in-depth technical docs [here](https://github.com/NeurovaCity/Neurova/blob/main/TECHNICAL.md) and [Gitbook](https://neurova.gitbook.io/docs).
 
+Our site is live at [neurova.fun](https://neurova.fun). 
 ### Core Infrastructure
 
 - **Runtime**: Bun.js - Ultra-fast JavaScript runtime for superior performance
@@ -438,8 +439,6 @@ As darkness falls, Neurova transforms into a different kind of wonderland. The c
 - Organize cultural workshops
 - Foster human-AI relationships
 
-
-- Documentation: [neurova.gitbook.io/docs](https://neurova.gitbook.io/docs)
 
 ## 🌟 Your Role in Our Story
 
